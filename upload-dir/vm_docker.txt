@@ -1,0 +1,9 @@
+#Call to NEMR0InitVMPart2 failed: VERR_NEM_INIT_FAILED (VERR_NEM_VM_CREATE_FAILED).
+
+#WSL 사용시에는
+bcdedit /set hypervisorlaunchtype auto
+
+#VirtualBox 사용시에는
+bcdedit /set hypervisorlaunchtype off
+ 
+#docker start  4a9aa72c0770
