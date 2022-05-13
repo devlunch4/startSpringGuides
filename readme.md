@@ -22,6 +22,7 @@ The following guides illustrate how to use some features concretely:
 * 002 [Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/) package[consumingrest]
 * 003 [Building Java Projects with Maven](https://spring.io/guides/gs/maven/) package[hello]
 * 004 [Uploading Files](https://spring.io/guides/gs/uploading-files/) package[uploadingfiles]
+* 005 [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/) package[messagingredis]
 
 
 
