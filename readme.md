@@ -18,11 +18,11 @@ The following guides illustrate how to use some features concretely:
 
 ### dev did.
 
-* 001 [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) package[restservice]
-* 002 [Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/) package[consumingrest]
-* 003 [Building Java Projects with Maven](https://spring.io/guides/gs/maven/) package[hello]
-* 004 [Uploading Files](https://spring.io/guides/gs/uploading-files/) package[uploadingfiles]
-* 005 [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/) package[messagingredis]
+* 001 [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/) package[restservice](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/restservice)
+* 002 [Consuming a RESTful Web Service](https://spring.io/guides/gs/consuming-rest/) package[consumingrest](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/consumingrest)
+* 003 [Building Java Projects with Maven](https://spring.io/guides/gs/maven/) package[hello](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/hello)
+* 004 [Uploading Files](https://spring.io/guides/gs/uploading-files/) package[uploadingfiles](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/uploadingfiles)
+* 005 [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/) package[messagingredis](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/messagingredis)
 
 
 
