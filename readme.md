@@ -1,5 +1,7 @@
 # Getting Started
 
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
@@ -16,6 +18,6 @@ The following guides illustrate how to use some features concretely:
 * 003 [Building Java Projects with Maven](https://spring.io/guides/gs/maven/) -Package [hello](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/hello)
 * 004 [Uploading Files](https://spring.io/guides/gs/uploading-files/) -Package [uploadingfiles](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/uploadingfiles)
 * 005 [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/) -Package [messagingredis](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/messagingredis)
-* 006 [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* 006 [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) -Package [servingwebcontent](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/servingwebcontent)
 
 

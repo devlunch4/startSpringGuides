@@ -1,5 +1,7 @@
 https://spring.io/guides/gs/messaging-redis/
 
+git clone https://github.com/spring-guides/gs-messaging-redis.git
+
 https://redis.io/download/#redis-downloads
 
 https://redis.io/docs/getting-started/installation/install-redis-on-windows/
