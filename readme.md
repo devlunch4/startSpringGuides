@@ -19,5 +19,8 @@ The following guides illustrate how to use some features concretely:
 * 004 [Uploading Files](https://spring.io/guides/gs/uploading-files/) -Package [uploadingfiles](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/uploadingfiles)
 * 005 [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/) -Package [messagingredis](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/messagingredis)
 * 006 [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) -Package [servingwebcontent](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/servingwebcontent)
+* 007 [Accessing Data with Neo4j](https://spring.io/guides/gs/accessing-data-neo4j/) -Package [accessingdataneo4j](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/accessingdataneo4j)
+* 008 [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/) -Package [actuatorservice](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/actuatorservice)
+* 009 [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/) -Package [batchprocessing](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/batchprocessing)
 
 
