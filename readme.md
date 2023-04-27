@@ -21,6 +21,6 @@ The following guides illustrate how to use some features concretely:
 * 006 [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) -Package [servingwebcontent](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/servingwebcontent)
 * 007 [Accessing Data with Neo4j](https://spring.io/guides/gs/accessing-data-neo4j/) -Package [accessingdataneo4j](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/accessingdataneo4j)
 * 008 [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/) -Package [actuatorservice](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/actuatorservice)
-* 009 [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/) -Package [batchprocessing](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/batchprocessing)
-* 010 [Building a Hypermedia-Driven RESTful Web Service](https://spring.io/guides/gs/rest-hateoas/)
+* 009 [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/) -Package [batchprocessing](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/batchprocessing)  
+* 010 [Building a Hypermedia-Driven RESTful Web Service](https://spring.io/guides/gs/rest-hateoas/) -Package [resthateoas](https://github.com/devlunch4/startSpringGuides/tree/master/src/main/java/com/example/resthateoas)
 
